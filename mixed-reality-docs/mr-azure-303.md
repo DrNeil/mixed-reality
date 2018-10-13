@@ -74,7 +74,7 @@ To use the *Language Understanding* service in Azure, you will need to configure
     > [!NOTE]
     > If you do not already have an Azure account, you will need to create one. If you are following this tutorial in a classroom or lab situation, ask your instructor or one of the proctors for help setting up your new account.
 
-2.	Once you are logged in, click on **New** in the top left corner, and search for *Azure Language Understanding*, and click **Enter**. 
+2.	Once you are logged in, click on **New** in the top left corner, and search for *Language Understanding*, and click **Enter**. 
 
     ![Create LUIS resource](images/AzureLabs-Lab3-01.png)
 
